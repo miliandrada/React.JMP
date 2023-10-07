@@ -1,0 +1,45 @@
+body{
+    font-family: "Roboto";
+    background: linear-gradient(to left, #D6D0D0,#B2ACAC);
+    display: inline-flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.name_comprar{
+    font-size: 25px;
+    color:#fff;
+    background-color: #000;
+  
+}
+
+
+.button_comprar{
+    font-weight: 700;
+    color:#fff;
+    background-color:#000;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 55px;
+    width: 120px;
+    margin-right: 6px;
+    margin-left: 6px;    
+}
+.description_comprar{
+    font-size: 20px;
+    color:#fff;
+    margin-top: 50px;
+    
+    
+}
+
+.price_comprar{
+    font-size:20px;
+    color:#fff;
+    background-color: #000;
+    margin-top: 50px;
+    
+
+}

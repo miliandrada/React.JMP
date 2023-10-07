@@ -1,0 +1,35 @@
+body{
+    font-family: "Roboto";
+    background: linear-gradient(to left, #D6D0D0,#B2ACAC);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background: #FFF;
+    padding: 40px 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+h1{
+    color:#000;
+    font-family: 'EB Garamond', serif;
+}
+
+label{
+    font-size: 18px;
+}
+
+input{
+    position: relative;
+     margin: 45px;
+     font-size: 15px;
+    padding: 2px 55px 2px;
+    border: none;
+    border-bottom:1px solid;
+    display: block;
+}

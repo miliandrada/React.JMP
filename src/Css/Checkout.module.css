@@ -1,0 +1,57 @@
+body{
+    font-family: "Roboto";
+    background: linear-gradient(to left, #fff,#B2ACAC);
+    display: inline-flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja_final{
+    background-color: #AFAAAA;
+    border: groove;
+    margin-top: 200px;
+    height:450px;
+    width: 400px;
+    
+}
+
+.name_final{
+    font-size: 25px;
+    color:#000;
+    background-color: #000;
+    color:#fff;
+    margin-top:15px;
+}
+.medios_pago{
+    color:#fff;
+    font-size: 15px;
+}
+.envio_final{
+font-size: 16px;
+
+}
+.title_final{
+    font-size: 25px;
+    color:#000;
+    color:#fff;
+    margin-top:40px;
+}
+
+.button_final{
+    font-weight: 500;
+    color:#fff;
+    background-color:#000;
+    border-radius: 10px;
+    margin-top: 20px;
+    height:40px;
+    width: 200px;
+    margin-right: 6px;
+    margin-left: 6px;    
+}
+
+.price_final{
+    margin-top: 30px;
+    font-size:25px;
+    color:#000;
+    background-color: #fff;
+}
